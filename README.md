@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Data Scientist with 5+ years of experience.
 
-- 👋 
+
 - 📍 **San Francisco, CA**
 - 📧 **Email**: [msdakot@gmail.com](mailto:contact@msdakot@gmail.com)
 - 🔗 **LinkedIn**: [dhruvi-kothari-8a098485](https://www.linkedin.com/in/dhruvi-kothari-8a098485/)
