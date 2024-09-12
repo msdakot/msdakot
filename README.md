@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hello, I'm Dhruvi!
 - 📍 San Francisco, CA
 - 📧 Email: msdakot@gmail.com
-- 🔗 LinkedIn: dhruvi-kothari-8a098485
+- 🔗 LinkedIn: (dhruvi-kothari-8a098485)[https://www.linkedin.com/in/dhruvi-kothari-8a098485/]
 - 👨‍💻 GitHub: msdakot
 
 ### About Me 🌐
