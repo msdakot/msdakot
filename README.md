@@ -14,14 +14,14 @@
 Blending over 7 years of experience in Data Science using Statistics, Machine Learning and NLP. I transform data and language into impactful solutions and experiences.
 
 #### Professional Highlights 🌟
-Senior Data Scientist - UrbanFootprint, California (2021 - Present)
-Data Analyst - Fehr & Peers (2019 - 2021)
+- Senior Data Scientist - UrbanFootprint, California (2021 - Present)
+- Data Analyst - Fehr & Peers (2019 - 2021)
 
 #### Tech Toolbox 🛠️
-Languages: Python, SQL, JavaScript, React, Hadoop, YAML
-Tools: AWS, GCP, Docker, Git
+- Languages: Python, SQL, JavaScript, React, Hadoop, YAML
+- Tools: AWS, GCP, Docker, Git
 
 #### Education 🎓
-Masters in Information Data Science, University of California - Berkeley
-Masters in City Planning, University of Pennsylvania
-Bachelors in Planning, Center for Environmental Planning & Technology (CEPT)
+- Masters in Information Data Science, University of California - Berkeley
+- Masters in City Planning, University of Pennsylvania
+- Bachelors in Planning, Center for Environmental Planning & Technology (CEPT)
