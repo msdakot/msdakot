@@ -10,7 +10,7 @@ AI-native Builder. Currently building open source AI agent infrastructure and de
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
