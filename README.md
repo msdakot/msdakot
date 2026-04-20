@@ -3,6 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-msdakot%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:msdakot@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvi--kothari-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-kothari-8a098485/)
 [![GitHub](https://img.shields.io/badge/GitHub-msdakot-181717?style=flat&logo=github&logoColor=white)](https://github.com/msdakot)
+[![AiGist](https://img.shields.io/badge/AiGist-Newsletter-FF6B35?style=flat&logo=beehiiv&logoColor=white)](https://theaigist.beehiiv.com/)
 
 San Francisco, USA. Full Stack AI Scientist with 5+ years of experience.
 AI-native Builder. Currently building open source AI agent infrastructure and developer tools.
