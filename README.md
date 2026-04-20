@@ -1,27 +1,27 @@
-## Hello, I'm Dhruvi! 👋
+# Hi, I'm Dhruvi
 
-### 🚀 Full Stack Data Scientist with 5+ years of experience.
+[![Email](https://img.shields.io/badge/Email-msdakot%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:msdakot@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvi--kothari-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-kothari-8a098485/)
+[![GitHub](https://img.shields.io/badge/GitHub-msdakot-181717?style=flat&logo=github&logoColor=white)](https://github.com/msdakot)
+
+San Francisco, USA. Full Stack AI Scientist with 5+ years of experience.
+AI-native Builder. Currently building open source AI agent infrastructure and developer tools.
 
 
-- 📍 **San Francisco, CA**
-- 📧 **Email**: [msdakot@gmail.com](mailto:contact@msdakot@gmail.com)
-- 🔗 **LinkedIn**: [dhruvi-kothari-8a098485](https://www.linkedin.com/in/dhruvi-kothari-8a098485/)
-- 👨‍💻 **GitHub**: [msdakot](https://github.com/msdakot)
-- ⚡ **Portfolio**: 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-000000?style=flat&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### About Me 🌐
+---
 
-Blending over 7 years of experience in Data Science using Statistics, Machine Learning and NLP. I transform data and language into impactful solutions and experiences.
+## AI Agent Infrastructure
 
-#### Professional Highlights 🌟
-- Senior Data Scientist - UrbanFootprint, California (2021 - Present)
-- Data Analyst - Fehr & Peers (2019 - 2021)
+| Project | Description |
+|---|---|
+| [ai-foundry](https://github.com/msdakot/ai-foundary) | Open-source registry of reusable skills, agents, plugins, and contexts for AI coding assistants like Claude |
+| [ai-news-curator](https://github.com/msdakot/ai-news-curator) | Daily AI news newsletter — curates and delivers top AI news automatically |
 
-#### Tech Toolbox 🛠️
-- Languages: Python, SQL, JavaScript, React, Hadoop, YAML
-- Tools: AWS, GCP, Docker, Git
 
-#### Education 🎓
-- Masters in Information Data Science, University of California - Berkeley
-- Masters in City Planning, University of Pennsylvania
-- Bachelors in Planning, Center for Environmental Planning & Technology (CEPT)
+
