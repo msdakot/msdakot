@@ -22,7 +22,7 @@ AI-native Builder. Currently building open source AI agent infrastructure and de
 | Project | Description |
 |---|---|
 | [ai-foundry](https://github.com/msdakot/ai-foundary) | Open-source registry of reusable skills, agents, plugins, and contexts for AI coding assistants like Claude |
-| [ai-news-curator](https://github.com/msdakot/ai-news-curator) | Daily AI news newsletter — curates and delivers top AI news automatically |
-
+| [ai-news-curator](https://github.com/msdakot/ai-news-curator) | Daily AI news newsletter — curates and delivers top AI news automatically.|
+| [scriptorium](https://github.com/msdakot/scriptorium) | The AI scriptorium — a multi-agent lab where teams investigate, build, and remember. |
 
 
